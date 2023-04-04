@@ -1,0 +1,3 @@
+Chacune des annotations que nous venons de voir comporte un ensemble de paramètres qui permettent de les personnaliser. N'hésitez donc pas à consulter [la documentation officielle](http://docs.doctrine-project.org/projects/doctrine-orm/en/latest/reference/association-mapping.html#many-to-many-bidirectional) sur les associations pour approfondir le sujet.
+
+La référence complète est disponible sur [le site de Doctrine](http://docs.doctrine-project.org/projects/doctrine-orm/en/latest/reference/annotations-reference.html).

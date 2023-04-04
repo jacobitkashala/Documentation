@@ -1,0 +1,376 @@
+{
+    "description":"Gérer ses données avec classe",
+    "slug":"doctrine-2-a-lassaut-de-lorm-phare-de-php",
+    "version":2,
+    "title":"Doctrine 2 : À l'assaut de l'ORM phare de PHP",
+    "type":"TUTORIAL",
+    "children":[
+        {
+            "slug":"les-bases-de-doctrine-2",
+            "title":"Les bases de Doctrine 2",
+            "children":[
+                {
+                    "slug":"installation-et-configuration-de-doctrine-2",
+                    "title":"Installation et configuration de Doctrine 2",
+                    "children":[
+                        {
+                            "slug":"le-fil-conducteur-du-cours",
+                            "object":"extract",
+                            "title":"Le fil conducteur du cours",
+                            "text":"les-bases-de-doctrine-2\/installation-et-configuration-de-doctrine-2\/le-fil-conducteur-du-cours.md"
+                        },
+                        {
+                            "slug":"pourquoi-utiliser-doctrine-2",
+                            "object":"extract",
+                            "title":"Pourquoi utiliser Doctrine 2 ?",
+                            "text":"les-bases-de-doctrine-2\/installation-et-configuration-de-doctrine-2\/pourquoi-utiliser-doctrine-2.md"
+                        },
+                        {
+                            "slug":"installation-et-configuration",
+                            "object":"extract",
+                            "title":"Installation et configuration",
+                            "text":"les-bases-de-doctrine-2\/installation-et-configuration-de-doctrine-2\/installation-et-configuration.md"
+                        }
+                    ],
+                    "conclusion":"les-bases-de-doctrine-2\/installation-et-configuration-de-doctrine-2\/conclusion.md",
+                    "introduction":"les-bases-de-doctrine-2\/installation-et-configuration-de-doctrine-2\/introduction.md",
+                    "object":"container"
+                },
+                {
+                    "slug":"sauvegarder-des-entites-grace-a-doctrine",
+                    "title":"Sauvegarder des entités grâce à Doctrine",
+                    "children":[
+                        {
+                            "slug":"creation-des-entites",
+                            "object":"extract",
+                            "title":"Création des entités",
+                            "text":"les-bases-de-doctrine-2\/sauvegarder-des-entites-grace-a-doctrine\/creation-des-entites.md"
+                        },
+                        {
+                            "slug":"lier-nos-entites-a-doctrine",
+                            "object":"extract",
+                            "title":"Lier nos entités à Doctrine",
+                            "text":"les-bases-de-doctrine-2\/sauvegarder-des-entites-grace-a-doctrine\/lier-nos-entites-a-doctrine.md"
+                        },
+                        {
+                            "slug":"sauvegarder-les-entites-a-la-decouverte-du-gestionnaire-dentites",
+                            "object":"extract",
+                            "title":"Sauvegarder les entités : À la découverte du gestionnaire d'entités",
+                            "text":"les-bases-de-doctrine-2\/sauvegarder-des-entites-grace-a-doctrine\/sauvegarder-les-entites-a-la-decouverte-du-gestionnaire-dentites.md"
+                        }
+                    ],
+                    "conclusion":"les-bases-de-doctrine-2\/sauvegarder-des-entites-grace-a-doctrine\/conclusion.md",
+                    "introduction":"les-bases-de-doctrine-2\/sauvegarder-des-entites-grace-a-doctrine\/introduction.md",
+                    "object":"container"
+                },
+                {
+                    "slug":"recuperer-des-entites-avec-doctrine",
+                    "title":"Récupérer des entités avec Doctrine",
+                    "children":[
+                        {
+                            "slug":"recuperer-une-entite-avec-la-cle-primaire",
+                            "object":"extract",
+                            "title":"Récupérer une entité avec la clé primaire",
+                            "text":"les-bases-de-doctrine-2\/recuperer-des-entites-avec-doctrine\/recuperer-une-entite-avec-la-cle-primaire.md"
+                        },
+                        {
+                            "slug":"recuperer-une-ou-plusieurs-entites-selon-des-criteres-differents",
+                            "object":"extract",
+                            "title":"Récupérer une ou plusieurs entités selon des critères différents",
+                            "text":"les-bases-de-doctrine-2\/recuperer-des-entites-avec-doctrine\/recuperer-une-ou-plusieurs-entites-selon-des-criteres-differents.md"
+                        },
+                        {
+                            "slug":"les-index",
+                            "object":"extract",
+                            "title":"Les index",
+                            "text":"les-bases-de-doctrine-2\/recuperer-des-entites-avec-doctrine\/les-index.md"
+                        }
+                    ],
+                    "conclusion":"les-bases-de-doctrine-2\/recuperer-des-entites-avec-doctrine\/conclusion.md",
+                    "introduction":"les-bases-de-doctrine-2\/recuperer-des-entites-avec-doctrine\/introduction.md",
+                    "object":"container"
+                },
+                {
+                    "slug":"modifier-et-supprimer-des-entites",
+                    "title":"Modifier et supprimer des entités",
+                    "children":[
+                        {
+                            "slug":"la-notion-dentite-geree-par-doctrine",
+                            "object":"extract",
+                            "title":"La notion d'entité gérée par Doctrine",
+                            "text":"les-bases-de-doctrine-2\/modifier-et-supprimer-des-entites\/la-notion-dentite-geree-par-doctrine.md"
+                        },
+                        {
+                            "slug":"supprimer-une-entite",
+                            "object":"extract",
+                            "title":"Supprimer une entité",
+                            "text":"les-bases-de-doctrine-2\/modifier-et-supprimer-des-entites\/supprimer-une-entite.md"
+                        },
+                        {
+                            "slug":"mise-a-jour-dune-entite",
+                            "object":"extract",
+                            "title":"Mise à jour d'une entité",
+                            "text":"les-bases-de-doctrine-2\/modifier-et-supprimer-des-entites\/mise-a-jour-dune-entite.md"
+                        },
+                        {
+                            "slug":"fusionner-une-entite-detachee",
+                            "object":"extract",
+                            "title":"Fusionner une entité détachée",
+                            "text":"les-bases-de-doctrine-2\/modifier-et-supprimer-des-entites\/fusionner-une-entite-detachee.md"
+                        }
+                    ],
+                    "conclusion":"les-bases-de-doctrine-2\/modifier-et-supprimer-des-entites\/conclusion.md",
+                    "introduction":"les-bases-de-doctrine-2\/modifier-et-supprimer-des-entites\/introduction.md",
+                    "object":"container"
+                }
+            ],
+            "conclusion":"les-bases-de-doctrine-2\/conclusion.md",
+            "introduction":"les-bases-de-doctrine-2\/introduction.md",
+            "object":"container"
+        },
+        {
+            "slug":"les-relations-avec-doctrine-2",
+            "title":"Les relations avec Doctrine 2",
+            "children":[
+                {
+                    "slug":"relation-onetoone-1-1",
+                    "title":"Relation OneToOne - 1..1",
+                    "children":[
+                        {
+                            "slug":"lannotation-onetoone",
+                            "object":"extract",
+                            "title":"L'annotation OneToOne",
+                            "text":"les-relations-avec-doctrine-2\/relation-onetoone-1-1\/lannotation-onetoone.md"
+                        },
+                        {
+                            "slug":"interaction-avec-une-entite-ayant-une-relation",
+                            "object":"extract",
+                            "title":"Interaction avec une entité ayant une relation",
+                            "text":"les-relations-avec-doctrine-2\/relation-onetoone-1-1\/interaction-avec-une-entite-ayant-une-relation.md"
+                        },
+                        {
+                            "slug":"la-relation-onetoone-bidirectionnelle",
+                            "object":"extract",
+                            "title":"La relation OneToOne bidirectionnelle",
+                            "text":"les-relations-avec-doctrine-2\/relation-onetoone-1-1\/la-relation-onetoone-bidirectionnelle.md"
+                        },
+                        {
+                            "slug":"lannotation-joincolumn",
+                            "object":"extract",
+                            "title":"L'annotation JoinColumn",
+                            "text":"les-relations-avec-doctrine-2\/relation-onetoone-1-1\/lannotation-joincolumn.md"
+                        }
+                    ],
+                    "conclusion":"les-relations-avec-doctrine-2\/relation-onetoone-1-1\/conclusion.md",
+                    "introduction":"les-relations-avec-doctrine-2\/relation-onetoone-1-1\/introduction.md",
+                    "object":"container"
+                },
+                {
+                    "slug":"relation-manytoone-et-onetomany-1-n",
+                    "title":"Relation ManyToOne et OneToMany - 1..n",
+                    "children":[
+                        {
+                            "slug":"relation-manytoone",
+                            "object":"extract",
+                            "title":"Relation ManyToOne",
+                            "text":"les-relations-avec-doctrine-2\/relation-manytoone-et-onetomany-1-n\/relation-manytoone.md"
+                        },
+                        {
+                            "slug":"relation-onetomany",
+                            "object":"extract",
+                            "title":"Relation OneToMany",
+                            "text":"les-relations-avec-doctrine-2\/relation-manytoone-et-onetomany-1-n\/relation-onetomany.md"
+                        },
+                        {
+                            "slug":"pratiquons-creation-dune-entite-sondage",
+                            "object":"extract",
+                            "title":"Pratiquons : Création d'une entité sondage",
+                            "text":"les-relations-avec-doctrine-2\/relation-manytoone-et-onetomany-1-n\/pratiquons-creation-dune-entite-sondage.md"
+                        }
+                    ],
+                    "conclusion":"les-relations-avec-doctrine-2\/relation-manytoone-et-onetomany-1-n\/conclusion.md",
+                    "introduction":"les-relations-avec-doctrine-2\/relation-manytoone-et-onetomany-1-n\/introduction.md",
+                    "object":"container"
+                },
+                {
+                    "slug":"relation-manytomany-n-m",
+                    "title":"Relation ManyToMany - n..m",
+                    "children":[
+                        {
+                            "slug":"relation-manytomany-simple",
+                            "object":"extract",
+                            "title":"Relation ManyToMany simple",
+                            "text":"les-relations-avec-doctrine-2\/relation-manytomany-n-m\/relation-manytomany-simple.md"
+                        },
+                        {
+                            "slug":"relation-manytomany-avec-attributs",
+                            "object":"extract",
+                            "title":"Relation ManyToMany avec attributs",
+                            "text":"les-relations-avec-doctrine-2\/relation-manytomany-n-m\/relation-manytomany-avec-attributs.md"
+                        },
+                        {
+                            "slug":"creation-des-participations",
+                            "object":"extract",
+                            "title":"Création des participations",
+                            "text":"les-relations-avec-doctrine-2\/relation-manytomany-n-m\/creation-des-participations.md"
+                        }
+                    ],
+                    "conclusion":"les-relations-avec-doctrine-2\/relation-manytomany-n-m\/conclusion.md",
+                    "introduction":"les-relations-avec-doctrine-2\/relation-manytomany-n-m\/introduction.md",
+                    "object":"container"
+                },
+                {
+                    "slug":"tp-finir-la-modelisation-du-syteme-de-sondage",
+                    "title":"TP : Finir la modélisation du sytème de sondage",
+                    "children":[
+                        {
+                            "slug":"pratiquons",
+                            "object":"extract",
+                            "title":"Pratiquons",
+                            "text":"les-relations-avec-doctrine-2\/tp-finir-la-modelisation-du-syteme-de-sondage\/pratiquons.md"
+                        },
+                        {
+                            "slug":"proposition-de-solution",
+                            "object":"extract",
+                            "title":"Proposition de solution",
+                            "text":"les-relations-avec-doctrine-2\/tp-finir-la-modelisation-du-syteme-de-sondage\/proposition-de-solution.md"
+                        },
+                        {
+                            "slug":"idees-damelioration",
+                            "object":"extract",
+                            "title":"Idées d'amélioration",
+                            "text":"les-relations-avec-doctrine-2\/tp-finir-la-modelisation-du-syteme-de-sondage\/idees-damelioration.md"
+                        }
+                    ],
+                    "conclusion":"les-relations-avec-doctrine-2\/tp-finir-la-modelisation-du-syteme-de-sondage\/conclusion.md",
+                    "introduction":"les-relations-avec-doctrine-2\/tp-finir-la-modelisation-du-syteme-de-sondage\/introduction.md",
+                    "object":"container"
+                }
+            ],
+            "conclusion":"les-relations-avec-doctrine-2\/conclusion.md",
+            "introduction":"les-relations-avec-doctrine-2\/introduction.md",
+            "object":"container"
+        },
+        {
+            "slug":"exploiter-une-base-de-donnees-avec-doctrine-2",
+            "title":"Exploiter une base de données avec Doctrine 2",
+            "children":[
+                {
+                    "slug":"a-la-rencontre-du-querybuilder-1",
+                    "title":"À la rencontre du QueryBuilder",
+                    "children":[
+                        {
+                            "slug":"le-querybuilder-1",
+                            "object":"extract",
+                            "title":"Le QueryBuilder",
+                            "text":"exploiter-une-base-de-donnees-avec-doctrine-2\/a-la-rencontre-du-querybuilder-1\/le-querybuilder-1.md"
+                        },
+                        {
+                            "slug":"les-repositories-personnalises-1",
+                            "object":"extract",
+                            "title":"Les repositories personnalisés",
+                            "text":"exploiter-une-base-de-donnees-avec-doctrine-2\/a-la-rencontre-du-querybuilder-1\/les-repositories-personnalises-1.md"
+                        }
+                    ],
+                    "conclusion":"exploiter-une-base-de-donnees-avec-doctrine-2\/a-la-rencontre-du-querybuilder-1\/conclusion.md",
+                    "introduction":"exploiter-une-base-de-donnees-avec-doctrine-2\/a-la-rencontre-du-querybuilder-1\/introduction.md",
+                    "object":"container"
+                },
+                {
+                    "slug":"optimiser-lutilisation-de-doctrine",
+                    "title":"Optimiser l'utilisation de Doctrine",
+                    "children":[
+                        {
+                            "slug":"tracer-les-requetes-doctrine",
+                            "object":"extract",
+                            "title":"Tracer les requêtes Doctrine",
+                            "text":"exploiter-une-base-de-donnees-avec-doctrine-2\/optimiser-lutilisation-de-doctrine\/tracer-les-requetes-doctrine.md"
+                        },
+                        {
+                            "slug":"fetch-mode-extra-lazy-lazy-eager-et-lazy-loading",
+                            "object":"extract",
+                            "title":"Fetch mode (Extra-Lazy, Lazy, Eager) et lazy-loading",
+                            "text":"exploiter-une-base-de-donnees-avec-doctrine-2\/optimiser-lutilisation-de-doctrine\/fetch-mode-extra-lazy-lazy-eager-et-lazy-loading.md"
+                        },
+                        {
+                            "slug":"les-jointures",
+                            "object":"extract",
+                            "title":"Les jointures",
+                            "text":"exploiter-une-base-de-donnees-avec-doctrine-2\/optimiser-lutilisation-de-doctrine\/les-jointures.md"
+                        }
+                    ],
+                    "conclusion":"exploiter-une-base-de-donnees-avec-doctrine-2\/optimiser-lutilisation-de-doctrine\/conclusion.md",
+                    "introduction":"exploiter-une-base-de-donnees-avec-doctrine-2\/optimiser-lutilisation-de-doctrine\/introduction.md",
+                    "object":"container"
+                },
+                {
+                    "slug":"configurer-doctrine-pour-la-production",
+                    "title":"Configurer Doctrine pour la production",
+                    "children":[
+                        {
+                            "slug":"la-gestion-du-cache",
+                            "object":"extract",
+                            "title":"La gestion du cache",
+                            "text":"exploiter-une-base-de-donnees-avec-doctrine-2\/configurer-doctrine-pour-la-production\/la-gestion-du-cache.md"
+                        },
+                        {
+                            "slug":"les-proxies",
+                            "object":"extract",
+                            "title":"Les proxies",
+                            "text":"exploiter-une-base-de-donnees-avec-doctrine-2\/configurer-doctrine-pour-la-production\/les-proxies.md"
+                        },
+                        {
+                            "slug":"exemple-de-configuration",
+                            "object":"extract",
+                            "title":"Exemple de configuration",
+                            "text":"exploiter-une-base-de-donnees-avec-doctrine-2\/configurer-doctrine-pour-la-production\/exemple-de-configuration.md"
+                        }
+                    ],
+                    "conclusion":"exploiter-une-base-de-donnees-avec-doctrine-2\/configurer-doctrine-pour-la-production\/conclusion.md",
+                    "introduction":"exploiter-une-base-de-donnees-avec-doctrine-2\/configurer-doctrine-pour-la-production\/introduction.md",
+                    "object":"container"
+                },
+                {
+                    "slug":"annexes",
+                    "title":"Annexes",
+                    "children":[
+                        {
+                            "slug":"support-des-transactions",
+                            "object":"extract",
+                            "title":"Support des transactions",
+                            "text":"exploiter-une-base-de-donnees-avec-doctrine-2\/annexes\/support-des-transactions.md"
+                        },
+                        {
+                            "slug":"les-references-ou-comment-economiser-une-requete",
+                            "object":"extract",
+                            "title":"Les références (ou comment économiser une requête)",
+                            "text":"exploiter-une-base-de-donnees-avec-doctrine-2\/annexes\/les-references-ou-comment-economiser-une-requete.md"
+                        },
+                        {
+                            "slug":"owning-side-inverse-side-gestion-des-relations",
+                            "object":"extract",
+                            "title":"Owning side - Inverse side : gestion des relations",
+                            "text":"exploiter-une-base-de-donnees-avec-doctrine-2\/annexes\/owning-side-inverse-side-gestion-des-relations.md"
+                        },
+                        {
+                            "slug":"les-evenements-doctrine",
+                            "object":"extract",
+                            "title":"Les événements Doctrine",
+                            "text":"exploiter-une-base-de-donnees-avec-doctrine-2\/annexes\/les-evenements-doctrine.md"
+                        }
+                    ],
+                    "conclusion":"exploiter-une-base-de-donnees-avec-doctrine-2\/annexes\/conclusion.md",
+                    "introduction":"exploiter-une-base-de-donnees-avec-doctrine-2\/annexes\/introduction.md",
+                    "object":"container"
+                }
+            ],
+            "conclusion":"exploiter-une-base-de-donnees-avec-doctrine-2\/conclusion.md",
+            "introduction":"exploiter-une-base-de-donnees-avec-doctrine-2\/introduction.md",
+            "object":"container"
+        }
+    ],
+    "conclusion":"conclusion.md",
+    "introduction":"introduction.md",
+    "licence":"Tous droits réservés",
+    "object":"container"
+}
